@@ -1,0 +1,1 @@
+/home/corbin/Desktop/rust_projects/Public/Advent_of_code/2015/day_two/day_two_part_one/target/release/day_two_part_one: /home/corbin/Desktop/rust_projects/Public/Advent_of_code/2015/day_two/day_two_part_one/src/main.rs
